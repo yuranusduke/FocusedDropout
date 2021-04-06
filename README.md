@@ -73,7 +73,7 @@ We simply run CIFAR10 with modified VGG16(with BatchNorm and less parameters in 
 ## Training statistics
 
 ### Dropout
-![img](./README/vgg16_0.5_True_False.png)
+![img](./README/vgg16_0.2_True_False.png)
 
 ### FocusedDropout
 ![img](./README/vgg16_0.2_False_True.png)
